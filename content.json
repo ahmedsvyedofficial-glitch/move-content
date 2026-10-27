@@ -68,7 +68,8 @@
         "XXL"
       ],
       "hidden": false,
-      "outOfStock": false
+      "outOfStock": false,
+      "deleted": true
     },
     {
       "id": "varsity-sand",
