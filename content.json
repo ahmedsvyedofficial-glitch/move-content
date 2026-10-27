@@ -14,7 +14,25 @@
       "images": [
         "/assets/p1-move-D57xvVfO.jpg"
       ],
-      "colors": [],
+      "colors": [
+        {
+          "name": "أسود فحمي",
+          "hex": "#121212"
+        },
+        {
+          "name": "رمادي ثلجي",
+          "hex": "#9CA3AF"
+        },
+        {
+          "name": "أخضر زيتي",
+          "hex": "#3B4D3B"
+        }
+      ],
+      "sizes": [
+        "L",
+        "XL",
+        "XXL"
+      ],
       "hidden": false,
       "outOfStock": false
     },
@@ -39,6 +57,13 @@
           "name": "كحلي ليلي",
           "hex": "#1E2A44"
         }
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
       ],
       "hidden": false,
       "outOfStock": false
@@ -66,6 +91,13 @@
           "hex": "#121212"
         }
       ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
       "hidden": false,
       "outOfStock": false
     },
@@ -90,6 +122,13 @@
           "name": "أخضر زيتي",
           "hex": "#3B4D3B"
         }
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
       ],
       "hidden": false,
       "outOfStock": false
@@ -119,6 +158,13 @@
           "hex": "#D6C7B2"
         }
       ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
       "hidden": false,
       "outOfStock": false
     },
@@ -147,6 +193,13 @@
           "name": "أسود فحمي",
           "hex": "#121212"
         }
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
       ],
       "hidden": false,
       "outOfStock": false
@@ -178,6 +231,13 @@
           "hex": "#1E2A44"
         }
       ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
       "hidden": false,
       "outOfStock": false
     },
@@ -203,6 +263,13 @@
           "hex": "#121212"
         }
       ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
       "hidden": false,
       "outOfStock": false
     },
@@ -226,6 +293,13 @@
           "name": "بيج صحراوي",
           "hex": "#D6C7B2"
         }
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
       ],
       "hidden": false,
       "outOfStock": false
@@ -251,6 +325,13 @@
           "name": "أخضر زيتي",
           "hex": "#3B4D3B"
         }
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
       ],
       "hidden": false,
       "outOfStock": false
