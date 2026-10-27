@@ -29,6 +29,8 @@
         }
       ],
       "sizes": [
+        "S",
+        "M",
         "L",
         "XL",
         "XXL"
@@ -131,7 +133,8 @@
         "XXL"
       ],
       "hidden": false,
-      "outOfStock": false
+      "outOfStock": false,
+      "deleted": true
     },
     {
       "id": "sweat-frost",
@@ -334,7 +337,8 @@
         "XXL"
       ],
       "hidden": false,
-      "outOfStock": false
+      "outOfStock": false,
+      "deleted": true
     }
   ],
   "sections": [],
