@@ -14,20 +14,7 @@
       "images": [
         "/assets/p1-move-D57xvVfO.jpg"
       ],
-      "colors": [
-        {
-          "name": "أسود فحمي",
-          "hex": "#121212"
-        },
-        {
-          "name": "رمادي ثلجي",
-          "hex": "#9CA3AF"
-        },
-        {
-          "name": "أخضر زيتي",
-          "hex": "#3B4D3B"
-        }
-      ],
+      "colors": [],
       "hidden": false,
       "outOfStock": false
     },
