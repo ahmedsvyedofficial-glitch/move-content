@@ -1,0 +1,415 @@
+{
+  "version": 1,
+  "products": [
+    {
+      "id": "hoodie-obsidian",
+      "name": "هودي أوبسيديان الثقيل",
+      "subtitle": "OBSIDIAN HEAVYWEIGHT HOODIE",
+      "category": "hoodies",
+      "section": "bestseller",
+      "price": 1150,
+      "oldPrice": 1350,
+      "badge": "الأكثر مبيعاً",
+      "description": "هودي أوفر سايز بوزن 450 جرام من قطن الميلتون الثقيل المبطن فليس من الداخل. قصة واسعة شبابية بأكتاف نازلة وكابيشون مزدوج يحافظ على الدفا في أبرد ليالي الشتا.",
+      "images": [
+        "/assets/p1-move-D57xvVfO.jpg"
+      ],
+      "hidden": false,
+      "outOfStock": false
+    },
+    {
+      "id": "puffer-gloss",
+      "name": "جاكيت بافر لامع",
+      "subtitle": "GLOSS PUFFER JACKET",
+      "category": "jackets",
+      "section": "bestseller",
+      "price": 1650,
+      "badge": "إصدار شتوي محدود",
+      "description": "بافر لامع بحشو حراري خفيف وعازل للهوا، ياقة عالية وجيوب مبطنة. القطعة اللي هتخليك دفيان ومميز في نفس الوقت.",
+      "images": [
+        "/assets/p2-men-iKNSc6tM.jpg"
+      ],
+      "hidden": false,
+      "outOfStock": false
+    },
+    {
+      "id": "varsity-sand",
+      "name": "جاكيت فارسيتي ساند",
+      "subtitle": "SAND VARSITY JACKET",
+      "category": "jackets",
+      "section": "movelook",
+      "price": 1550,
+      "oldPrice": 1800,
+      "badge": "خصم 15%",
+      "description": "فارسيتي كلاسيك بلمسة MOVE: جسم من الصوف المضغوط وأكمام جلد صناعي ناعم، أزرار كبس معدنية وتطريز على الصدر.",
+      "images": [
+        "/assets/p3-move-vRwrodZv.jpg"
+      ],
+      "hidden": false,
+      "outOfStock": false
+    },
+    {
+      "id": "cargo-night",
+      "name": "كارجو نايت الشتوي",
+      "subtitle": "NIGHT WINTER CARGO",
+      "category": "pants",
+      "section": "movelook",
+      "price": 950,
+      "badge": "جديد",
+      "description": "بنطلون كارجو واسع بقماش تويل ثقيل مبطن من الداخل، 6 جيوب ورباط عند الكاحل لستايل ستريت كامل.",
+      "images": [
+        "/assets/p6-CXtMYQMV.jpg"
+      ],
+      "hidden": false,
+      "outOfStock": false
+    },
+    {
+      "id": "sweat-frost",
+      "name": "سويت بانتس فروست",
+      "subtitle": "FROST HEAVY SWEATPANTS",
+      "category": "pants",
+      "section": "newmove",
+      "price": 850,
+      "description": "سويت بانتس واسع بنفس خامة الهودي الثقيلة، مريح للبيت والشارع مع جيوب عميقة وأستك قوي.",
+      "images": [
+        "/assets/sweat-frost-BNnczAiO.jpg"
+      ],
+      "hidden": false,
+      "outOfStock": false
+    },
+    {
+      "id": "knit-olive",
+      "name": "بلوفر تريكو زيتي",
+      "subtitle": "OLIVE CHUNKY KNIT",
+      "category": "sweaters",
+      "section": "movelook",
+      "price": 1050,
+      "badge": "إصدار شتوي محدود",
+      "description": "بلوفر تريكو بغرزة عريضة ودفا حقيقي. قصة مريحة بأكمام طويلة وحواف مضلعة.",
+      "images": [
+        "/assets/knit-olive-qyew4jWg.jpg"
+      ],
+      "hidden": false,
+      "outOfStock": false
+    },
+    {
+      "id": "crew-ash",
+      "name": "كرو نيك آش",
+      "subtitle": "ASH CREWNECK",
+      "category": "sweaters",
+      "section": "bestseller",
+      "price": 890,
+      "oldPrice": 1050,
+      "badge": "خصم 15%",
+      "description": "سويت شيرت كرو نيك كلاسيك بخامة فليس كثيفة، طبقة مثالية تحت الجاكيت أو لوحده.",
+      "images": [
+        "/assets/crew-ash-Bo781GcE.jpg"
+      ],
+      "hidden": false,
+      "outOfStock": false
+    },
+    {
+      "id": "hoodie-volt",
+      "name": "هودي فولت سيجنال",
+      "subtitle": "VOLT SIGNAL HOODIE",
+      "category": "hoodies",
+      "section": "bestseller",
+      "price": 1200,
+      "badge": "الأكثر مبيعاً",
+      "description": "اللون اللي بيلفت النظر. هودي فولت بطباعة MOVE على الظهر وخامة ثقيلة مبطنة.",
+      "images": [
+        "/assets/hoodie-volt-Cexlg6LV.jpg"
+      ],
+      "hidden": false,
+      "outOfStock": false
+    },
+    {
+      "id": "hoodie-zip",
+      "name": "هودي زيب سنو",
+      "subtitle": "SNOW ZIP HOODIE",
+      "category": "hoodies",
+      "section": "newmove",
+      "price": 1100,
+      "description": "هودي بسوستة كاملة وجيوب جانبية، سهل تلبسه فوق أي تيشيرت في يوم شتوي متقلب.",
+      "images": [
+        "/assets/hoodie-zip-C2J9JM5_.jpg"
+      ],
+      "hidden": false,
+      "outOfStock": false
+    },
+    {
+      "id": "puffer-vest",
+      "name": "فيست بافر أوربان",
+      "subtitle": "URBAN PUFFER VEST",
+      "category": "jackets",
+      "section": "movelook",
+      "price": 1250,
+      "badge": "جديد",
+      "description": "فيست بافر بدون أكمام، طبقة دفا خفيفة فوق الهودي للوك ستريت متكامل.",
+      "images": [
+        "/assets/puffer-vest-B3HJu14R.jpg"
+      ],
+      "hidden": false,
+      "outOfStock": false
+    }
+  ],
+  "sections": [],
+  "deletedSections": [],
+  "categories": [],
+  "deletedCategories": [],
+  "texts": {
+    "bestKicker": "DON'T MISS OUT",
+    "bestTitle": "متفوتش الفرصة",
+    "lookKicker": "STYLED BY MOVE",
+    "lookTitle": "MOVE LOOK",
+    "jacketKicker": "INSIDE THE JACKET",
+    "jacketTitle": "تفاصيل بافر MOVE"
+  },
+  "promos": [
+    {
+      "img": "/assets/p5-men-C39GC4U0.jpg",
+      "kicker": "THE CREW",
+      "title": "MOVE مع الصحاب",
+      "text": "تنسيقات كاملة ليك ولصحابك — نفس الدروب، ستايل مختلف.",
+      "productId": "hoodie-volt"
+    },
+    {
+      "img": "/assets/p3-move-vRwrodZv.jpg",
+      "kicker": "CAMPUS READY",
+      "title": "جاهز للجامعة",
+      "text": "فارسيتي ساند مع كارجو نايت — لوك يومي مريح وثقيل.",
+      "productId": "varsity-sand"
+    }
+  ],
+  "settings": {
+    "shippingFee": 60,
+    "governorates": [
+      "القاهرة",
+      "الجيزة",
+      "القليوبية"
+    ],
+    "storePhone": "01090082242",
+    "whatsapp": "https://wa.me/201090082242",
+    "instagram": "https://www.instagram.com/move_stor12"
+  },
+  "homepage": {
+    "order": [
+      "hero",
+      "best",
+      "promos",
+      "jacket",
+      "look",
+      "motion",
+      "community",
+      "footer"
+    ],
+    "sections": {
+      "hero": {
+        "visible": true,
+        "title": "",
+        "kicker": "",
+        "text": "",
+        "image": "/assets/p2-men-iKNSc6tM.jpg",
+        "images": [],
+        "logo": "MOVE",
+        "animated": true,
+        "cta": "",
+        "source": "",
+        "count": 4,
+        "productIds": [],
+        "hotspots": [],
+        "showInstagram": false,
+        "showWhatsapp": false,
+        "showShipping": false,
+        "instagramLabel": "",
+        "whatsappLabel": ""
+      },
+      "best": {
+        "visible": false,
+        "title": "متفوتش الفرصة",
+        "kicker": "DON'T MISS OUT",
+        "text": "",
+        "image": "",
+        "images": [],
+        "logo": "",
+        "animated": true,
+        "cta": "كل الأكثر مبيعاً",
+        "source": "bestseller",
+        "count": 4,
+        "productIds": [],
+        "hotspots": [],
+        "showInstagram": false,
+        "showWhatsapp": false,
+        "showShipping": false,
+        "instagramLabel": "",
+        "whatsappLabel": ""
+      },
+      "promos": {
+        "visible": true,
+        "title": "",
+        "kicker": "",
+        "text": "",
+        "image": "",
+        "images": [],
+        "logo": "",
+        "animated": true,
+        "cta": "اكتشف القطعة",
+        "source": "",
+        "count": 4,
+        "productIds": [],
+        "hotspots": [],
+        "showInstagram": false,
+        "showWhatsapp": false,
+        "showShipping": false,
+        "instagramLabel": "",
+        "whatsappLabel": ""
+      },
+      "jacket": {
+        "visible": true,
+        "title": "تفاصيل بافر MOVE",
+        "kicker": "INSIDE THE JACKET",
+        "text": "",
+        "image": "/assets/jacket-3d-BiaYmrvt.jpg",
+        "images": [],
+        "logo": "",
+        "animated": true,
+        "cta": "",
+        "source": "",
+        "count": 4,
+        "productIds": [],
+        "hotspots": [
+          {
+            "x": 50,
+            "y": 13,
+            "title": "ياقة عالية واقية",
+            "text": "ياقة مبطنة بفرو ناعم بتحمي رقبتك من الهوا البارد."
+          },
+          {
+            "x": 63,
+            "y": 33,
+            "title": "لوجو MOVE مطرز",
+            "text": "تطريز فولت أصفر بخيوط مقاومة للغسيل والبهتان."
+          },
+          {
+            "x": 50,
+            "y": 50,
+            "title": "سوستة معدنية مزدوجة",
+            "text": "سحاب YKK قوي بيتحمل الاستخدام اليومي من غير ما يعلّق."
+          },
+          {
+            "x": 13,
+            "y": 58,
+            "title": "أكمام بأساور مطاطية",
+            "text": "أساور مضلعة بتقفل على المعصم وتحبس الدفا جوه."
+          },
+          {
+            "x": 30,
+            "y": 68,
+            "title": "جيوب بسوستة مخفية",
+            "text": "جيوب جانبية مبطنة تسخّن إيديك وتأمّن موبايلك."
+          },
+          {
+            "x": 50,
+            "y": 88,
+            "title": "حشو حراري خفيف",
+            "text": "حشوة فايبر عالية الكثافة — دفا كامل من غير وزن زيادة."
+          }
+        ],
+        "showInstagram": false,
+        "showWhatsapp": false,
+        "showShipping": false,
+        "instagramLabel": "",
+        "whatsappLabel": ""
+      },
+      "look": {
+        "visible": true,
+        "title": "MOVE LOOK",
+        "kicker": "STYLED BY MOVE",
+        "text": "",
+        "image": "",
+        "images": [],
+        "logo": "",
+        "animated": true,
+        "cta": "كل اللوكات",
+        "source": "movelook",
+        "count": 4,
+        "productIds": [],
+        "hotspots": [],
+        "showInstagram": false,
+        "showWhatsapp": false,
+        "showShipping": false,
+        "instagramLabel": "",
+        "whatsappLabel": ""
+      },
+      "motion": {
+        "visible": true,
+        "title": "الشارع على مزاجك.",
+        "kicker": "THE STREET IS YOURS",
+        "text": "",
+        "image": "/assets/p5-men-C39GC4U0.jpg",
+        "images": [],
+        "logo": "MOVE",
+        "animated": true,
+        "cta": "",
+        "source": "",
+        "count": 4,
+        "productIds": [
+          "hoodie-volt",
+          "puffer-gloss",
+          "cargo-night"
+        ],
+        "hotspots": [],
+        "showInstagram": false,
+        "showWhatsapp": false,
+        "showShipping": false,
+        "instagramLabel": "",
+        "whatsappLabel": ""
+      },
+      "community": {
+        "visible": true,
+        "title": "@move_stor12",
+        "kicker": "JOIN THE MOVEMENT",
+        "text": "تابعنا على إنستجرام لأول نظرة على كل دروب جديد، وكلمنا واتساب لأي استفسار عن المقاسات أو الأوردر.",
+        "image": "",
+        "images": [
+          "/assets/p5-men-C39GC4U0.jpg",
+          "/assets/p3-move-vRwrodZv.jpg",
+          "/assets/p2-men-iKNSc6tM.jpg",
+          "/assets/p6-CXtMYQMV.jpg"
+        ],
+        "logo": "",
+        "animated": true,
+        "cta": "",
+        "source": "",
+        "count": 4,
+        "productIds": [],
+        "hotspots": [],
+        "showInstagram": true,
+        "showWhatsapp": true,
+        "showShipping": false,
+        "instagramLabel": "تابعنا على إنستجرام",
+        "whatsappLabel": ""
+      },
+      "footer": {
+        "visible": true,
+        "title": "",
+        "kicker": "",
+        "text": "© 2026 MOVE Streetwear",
+        "image": "",
+        "images": [],
+        "logo": "MOVE",
+        "animated": true,
+        "cta": "",
+        "source": "",
+        "count": 4,
+        "productIds": [],
+        "hotspots": [],
+        "showInstagram": true,
+        "showWhatsapp": true,
+        "showShipping": true,
+        "instagramLabel": "Instagram",
+        "whatsappLabel": "WhatsApp"
+      }
+    }
+  }
+}
