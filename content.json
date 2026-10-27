@@ -15,7 +15,8 @@
         "/assets/p1-move-D57xvVfO.jpg"
       ],
       "hidden": false,
-      "outOfStock": false
+      "outOfStock": false,
+      "colors": []
     },
     {
       "id": "puffer-gloss",
