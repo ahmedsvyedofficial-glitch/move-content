@@ -414,7 +414,7 @@
         "whatsappLabel": ""
       },
       "best": {
-        "visible": true,
+        "visible": false,
         "title": "متفوتش الفرصة",
         "kicker": "DON'T MISS OUT",
         "text": "",
