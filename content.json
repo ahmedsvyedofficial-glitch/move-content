@@ -14,9 +14,22 @@
       "images": [
         "/assets/p1-move-D57xvVfO.jpg"
       ],
+      "colors": [
+        {
+          "name": "أسود فحمي",
+          "hex": "#121212"
+        },
+        {
+          "name": "رمادي ثلجي",
+          "hex": "#9CA3AF"
+        },
+        {
+          "name": "أخضر زيتي",
+          "hex": "#3B4D3B"
+        }
+      ],
       "hidden": false,
-      "outOfStock": true,
-      "colors": []
+      "outOfStock": false
     },
     {
       "id": "puffer-gloss",
@@ -29,6 +42,16 @@
       "description": "بافر لامع بحشو حراري خفيف وعازل للهوا، ياقة عالية وجيوب مبطنة. القطعة اللي هتخليك دفيان ومميز في نفس الوقت.",
       "images": [
         "/assets/p2-men-iKNSc6tM.jpg"
+      ],
+      "colors": [
+        {
+          "name": "أسود فحمي",
+          "hex": "#121212"
+        },
+        {
+          "name": "كحلي ليلي",
+          "hex": "#1E2A44"
+        }
       ],
       "hidden": false,
       "outOfStock": false
@@ -46,6 +69,16 @@
       "images": [
         "/assets/p3-move-vRwrodZv.jpg"
       ],
+      "colors": [
+        {
+          "name": "بيج صحراوي",
+          "hex": "#D6C7B2"
+        },
+        {
+          "name": "أسود فحمي",
+          "hex": "#121212"
+        }
+      ],
       "hidden": false,
       "outOfStock": false
     },
@@ -61,6 +94,16 @@
       "images": [
         "/assets/p6-CXtMYQMV.jpg"
       ],
+      "colors": [
+        {
+          "name": "أسود فحمي",
+          "hex": "#121212"
+        },
+        {
+          "name": "أخضر زيتي",
+          "hex": "#3B4D3B"
+        }
+      ],
       "hidden": false,
       "outOfStock": false
     },
@@ -74,6 +117,20 @@
       "description": "سويت بانتس واسع بنفس خامة الهودي الثقيلة، مريح للبيت والشارع مع جيوب عميقة وأستك قوي.",
       "images": [
         "/assets/sweat-frost-BNnczAiO.jpg"
+      ],
+      "colors": [
+        {
+          "name": "رمادي ثلجي",
+          "hex": "#9CA3AF"
+        },
+        {
+          "name": "أسود فحمي",
+          "hex": "#121212"
+        },
+        {
+          "name": "بيج صحراوي",
+          "hex": "#D6C7B2"
+        }
       ],
       "hidden": false,
       "outOfStock": false
@@ -89,6 +146,20 @@
       "description": "بلوفر تريكو بغرزة عريضة ودفا حقيقي. قصة مريحة بأكمام طويلة وحواف مضلعة.",
       "images": [
         "/assets/knit-olive-qyew4jWg.jpg"
+      ],
+      "colors": [
+        {
+          "name": "أخضر زيتي",
+          "hex": "#3B4D3B"
+        },
+        {
+          "name": "بيج صحراوي",
+          "hex": "#D6C7B2"
+        },
+        {
+          "name": "أسود فحمي",
+          "hex": "#121212"
+        }
       ],
       "hidden": false,
       "outOfStock": false
@@ -106,6 +177,20 @@
       "images": [
         "/assets/crew-ash-Bo781GcE.jpg"
       ],
+      "colors": [
+        {
+          "name": "رمادي ثلجي",
+          "hex": "#9CA3AF"
+        },
+        {
+          "name": "أسود فحمي",
+          "hex": "#121212"
+        },
+        {
+          "name": "كحلي ليلي",
+          "hex": "#1E2A44"
+        }
+      ],
       "hidden": false,
       "outOfStock": false
     },
@@ -121,6 +206,16 @@
       "images": [
         "/assets/hoodie-volt-Cexlg6LV.jpg"
       ],
+      "colors": [
+        {
+          "name": "أصفر فولت",
+          "hex": "#E2FF32"
+        },
+        {
+          "name": "أسود فحمي",
+          "hex": "#121212"
+        }
+      ],
       "hidden": false,
       "outOfStock": false
     },
@@ -134,6 +229,16 @@
       "description": "هودي بسوستة كاملة وجيوب جانبية، سهل تلبسه فوق أي تيشيرت في يوم شتوي متقلب.",
       "images": [
         "/assets/hoodie-zip-C2J9JM5_.jpg"
+      ],
+      "colors": [
+        {
+          "name": "رمادي ثلجي",
+          "hex": "#9CA3AF"
+        },
+        {
+          "name": "بيج صحراوي",
+          "hex": "#D6C7B2"
+        }
       ],
       "hidden": false,
       "outOfStock": false
@@ -149,6 +254,16 @@
       "description": "فيست بافر بدون أكمام، طبقة دفا خفيفة فوق الهودي للوك ستريت متكامل.",
       "images": [
         "/assets/puffer-vest-B3HJu14R.jpg"
+      ],
+      "colors": [
+        {
+          "name": "أسود فحمي",
+          "hex": "#121212"
+        },
+        {
+          "name": "أخضر زيتي",
+          "hex": "#3B4D3B"
+        }
       ],
       "hidden": false,
       "outOfStock": false
@@ -226,7 +341,7 @@
         "whatsappLabel": ""
       },
       "best": {
-        "visible": false,
+        "visible": true,
         "title": "متفوتش الفرصة",
         "kicker": "DON'T MISS OUT",
         "text": "",
@@ -333,7 +448,7 @@
         "animated": true,
         "cta": "كل اللوكات",
         "source": "movelook",
-        "count": 3,
+        "count": 4,
         "productIds": [],
         "hotspots": [],
         "showInstagram": false,
