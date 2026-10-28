@@ -3,35 +3,19 @@
   "products": [
     {
       "id": "hoodie-obsidian",
-      "name": "هودي أوبسيديان الثقيل",
-      "subtitle": "OBSIDIAN HEAVYWEIGHT HOODIE",
+      "name": "هودي بوكس فيت ",
+      "subtitle": "MOVE Blackout Boxy Hoodie",
       "category": "hoodies",
-      "section": "bestseller",
-      "price": 1150,
-      "oldPrice": 1350,
+      "section": "winter",
+      "price": 650,
+      "oldPrice": 850,
       "badge": "الأكثر مبيعاً",
-      "description": "هودي أوفر سايز بوزن 450 جرام من قطن الميلتون الثقيل المبطن فليس من الداخل. قصة واسعة شبابية بأكتاف نازلة وكابيشون مزدوج يحافظ على الدفا في أبرد ليالي الشتا.",
+      "description": "Black • Heavyweight Fabric • Oversized Boxy Fit 🖤",
       "images": [
-        "/assets/p1-move-D57xvVfO.jpg"
+        "https://raw.githubusercontent.com/ahmedsvyedofficial-glitch/move-content/main/images/mvrwua1q-omazv.png"
       ],
-      "colors": [
-        {
-          "name": "أسود فحمي",
-          "hex": "#121212"
-        },
-        {
-          "name": "رمادي ثلجي",
-          "hex": "#9CA3AF"
-        },
-        {
-          "name": "أخضر زيتي",
-          "hex": "#3B4D3B"
-        }
-      ],
+      "colors": [],
       "sizes": [
-        "S",
-        "M",
-        "L",
         "XL",
         "XXL"
       ],
@@ -102,7 +86,8 @@
         "XXL"
       ],
       "hidden": false,
-      "outOfStock": false
+      "outOfStock": false,
+      "deleted": true
     },
     {
       "id": "cargo-night",
@@ -170,7 +155,8 @@
         "XXL"
       ],
       "hidden": false,
-      "outOfStock": false
+      "outOfStock": false,
+      "deleted": true
     },
     {
       "id": "knit-olive",
@@ -206,7 +192,8 @@
         "XXL"
       ],
       "hidden": false,
-      "outOfStock": false
+      "outOfStock": false,
+      "deleted": true
     },
     {
       "id": "crew-ash",
@@ -243,39 +230,30 @@
         "XXL"
       ],
       "hidden": false,
-      "outOfStock": false
+      "outOfStock": false,
+      "deleted": true
     },
     {
       "id": "hoodie-volt",
-      "name": "هودي فولت سيجنال",
-      "subtitle": "VOLT SIGNAL HOODIE",
+      "name": "هودي أوفرسايز بتوقيع MV ",
+      "subtitle": "MV Signature Oversized Hoodie",
       "category": "hoodies",
-      "section": "bestseller",
-      "price": 1200,
+      "section": "movelook",
+      "price": 800,
       "badge": "الأكثر مبيعاً",
-      "description": "اللون اللي بيلفت النظر. هودي فولت بطباعة MOVE على الظهر وخامة ثقيلة مبطنة.",
+      "description": "التفاصيل: يأتي بلون أسود فخم، مزين بشعار MV أحمر بتصميم حاد وجريء (صغير على الصدر من الأمام، وبصمة كبيرة ومميزة على الظهر تمنحه طابعاً قوياً وخاطفاً للأنظار).  \nالخامة والراحة: مصنوع من خامات ثقيلة وعالية الجودة توفر الدفء والراحة القصوى، مع غطاء رأس (حقيبة رأس/الهود) عملي ومريح.",
       "images": [
-        "/assets/hoodie-volt-Cexlg6LV.jpg"
+        "https://raw.githubusercontent.com/ahmedsvyedofficial-glitch/move-content/main/images/mvrxav8i-pa4c9.jpeg"
       ],
-      "colors": [
-        {
-          "name": "أصفر فولت",
-          "hex": "#E2FF32"
-        },
-        {
-          "name": "أسود فحمي",
-          "hex": "#121212"
-        }
-      ],
+      "colors": [],
       "sizes": [
-        "S",
-        "M",
         "L",
         "XL",
         "XXL"
       ],
       "hidden": false,
-      "outOfStock": false
+      "outOfStock": true,
+      "oldPrice": 1050
     },
     {
       "id": "hoodie-zip",
@@ -305,7 +283,7 @@
         "XL",
         "XXL"
       ],
-      "hidden": false,
+      "hidden": true,
       "outOfStock": false
     },
     {
@@ -343,9 +321,16 @@
     }
   ],
   "sections": [],
-  "deletedSections": [],
+  "deletedSections": [
+    "bestseller",
+    "newmove"
+  ],
   "categories": [],
-  "deletedCategories": [],
+  "deletedCategories": [
+    "sweaters",
+    "pants",
+    "jackets"
+  ],
   "texts": {
     "bestKicker": "DON'T MISS OUT",
     "bestTitle": "متفوتش الفرصة",
